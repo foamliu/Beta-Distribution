@@ -1,1 +1,3 @@
 # Beta-Distribution
+
+![image]()
